@@ -102,7 +102,7 @@ skynet_captain_broadcast: <size=70><color=#0051FF>Você é o capitão da Força-
 # 天网机动特遣队指挥官自定义信息
 skynet_captain_custom_info: Capitão da Skynet
 # 非礼勿视机动特遣队Cassie广播
-see_no_evil_cassie: Mobile Task Force Eta-10, codenamed See No Evil, has entered the facility. They will help contain SCP-096. It is recommended that all surviving personnel implement standard evacuation protocols until the MTF team arrives at your location. There are currently %SCPNum% SCPs left.
+see_no_evil_cassie: Força Tarefa Móvel Eta-10, codenamed See No Evil, has entered the facility. They will help contain SCP-096. It is recommended that all surviving personnel implement standard evacuation protocols until the MTF team arrives at your location. There are currently %SCPNum% SCPs left.
 # 非礼勿视机动特遣队技能描述
 see_no_evil_skill_introduction:
 - You are [Member of the Mobile Task Force No Evil], dare to stare at SCP096
